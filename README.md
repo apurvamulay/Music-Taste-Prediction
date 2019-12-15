@@ -1,4 +1,4 @@
-# Music-taste-analysis-project
+# Music-taste-analysis
 This project is done as a part of Data Science course taken as a part of Master of Science in Computer Science.
 The project attempts to answer the question - Which user has more probability of liking a song given features of that song?
 The Project consist of analysis as follows:
