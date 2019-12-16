@@ -9,4 +9,12 @@ The Project consist of analysis as follows:
   2.1 Using k-fold cross-validation with k=3<br />
   
   The features considered are features of the song received from spotify:
-  'acousticness', 'danceability', 'energy', 'instrumentalness', 'liveness', 'loudness', 'speechiness', 'tempo', 'valence',   ‘popularity’
+  'acousticness', 'danceability', 'energy', 'instrumentalness', 'liveness', 'loudness', 'speechiness', 'tempo', 'valence',   ‘popularity’<br>
+  <br/>
+  
+  Following ML Models were used:<br/>
+  1. l2 regularized logistic regression<br/>
+  2. Decision tree classifier
+  3. Random Forest
+  <br/>
+  Random Forest was selected for analysis as it provided AUC of 0.91, F1 score of 0.90 and accuracy of 91%
